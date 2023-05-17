@@ -15,7 +15,7 @@ h1 {
     margin-top: 5px;
 }
 
-button {
+.nav-button {
     background-color: rgba(83, 49, 237, 0.801);
     border: 2px solid rgb(4, 18, 47);
     border-radius: 5px;
@@ -31,4 +31,8 @@ p {
     color: rgb(4, 18, 47);
     font-size: 20px;
     font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+.body-image {
+    width: 40vw;
 }
